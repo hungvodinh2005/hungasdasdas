@@ -59,7 +59,7 @@ function removeTypingIndicator() {
 
 async function getBotResponse(userMessage) {
   const apiKey =
-    "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";
+    "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";
   const apiUrl = "https://openrouter.ai/api/v1/chat/completions";
   showTypingIndicator();
   try {
